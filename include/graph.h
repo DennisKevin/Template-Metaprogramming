@@ -7,9 +7,9 @@
 #ifndef GRAPH_H
 #define GRAPH_H
 
-#include "TypeList.h"
 #include <type_traits>
 #include <utility>
+#include "type_list.h"
 
 // ¶¥µã
 template<char Id>

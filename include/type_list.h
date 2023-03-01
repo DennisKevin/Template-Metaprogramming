@@ -1,4 +1,11 @@
-﻿#ifndef TYPE_LIST_H
+﻿/*	Copyright(C)
+	Author: 479764650@qq.com
+	Description: TypeList及对应高阶函数操作
+	History: 2023/2/8
+*/
+
+
+#ifndef TYPE_LIST_H
 #define TYPE_LIST_H
 
 #include <type_traits>
